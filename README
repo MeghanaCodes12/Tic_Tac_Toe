@@ -1,0 +1,28 @@
+# Tic Tac Toe – GUI Version (Python Tkinter)
+
+This is a graphical user interface (GUI) version of the Tic Tac Toe game built using Python’s Tkinter library.
+
+## 🖥️ Features
+- Interactive 3×3 grid using buttons
+- Two-player mode (X vs O)
+- Automatically switches turns
+- Detects and displays:
+  - Winner
+  - Draw condition
+- User-friendly popup messages
+
+## 🛠️ Concepts Used
+- Object-Oriented Programming (OOP)
+- Tkinter GUI components
+- Event handling with buttons
+- Game state management
+- Conditional logic
+
+## ▶️ How to Run
+1. Ensure Python is installed
+2. Open a terminal
+3. Navigate to the GUI version folder
+4. Run the program:
+
+```bash
+python tic_tac_toe_gui.py
